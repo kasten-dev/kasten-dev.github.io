@@ -1,3 +1,10 @@
-theme: jekyll-theme-minimal
-title: kasten.dev
+remote_theme: jekyll/minima
+title: kasten][development
 description: Bookmark this to keep an eye on my project updates!
+show_downloads: false
+
+plugins:
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
+
+minima:
+  skin: dark
